@@ -1,0 +1,10 @@
+Package: intronology
+Type: Package
+Title: Intron Annotation R Package
+Version: 0.1.0
+Author: Alice Pierce
+Maintainer: Alice Pierce <avpierce@ucdavis.edu>
+Description: Use this package to annotate introns on your favorite genomes!
+License: MIT Licence
+Encoding: UTF-8
+LazyData: true
