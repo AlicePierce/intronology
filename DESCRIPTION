@@ -8,3 +8,7 @@ Description: Use this package to annotate introns on your favorite genomes!
 License: MIT Licence
 Encoding: UTF-8
 LazyData: true
+Imports:
+    tidyverse
+    data.table
+    ggplot2
