@@ -9,6 +9,7 @@ License: MIT Licence
 Encoding: UTF-8
 LazyData: true
 Imports:
-    tidyverse,
-    data.table
+    data.table,
+    magrittr,
+    dplyr
 RoxygenNote: 7.3.2

@@ -1,5 +1,6 @@
 #' @importFrom magrittr %>%
 #' @import data.table
+#' @importFrom dplyr ungroup
 
 gffExons <- function(input_gff) {
 
