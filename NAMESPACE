@@ -1,2 +1,2 @@
 exportPattern("^[[:alpha:]]+")
-import(data.table, tidyverse, ggplot2)
+import(data.table, tidyverse)

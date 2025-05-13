@@ -1,3 +1,5 @@
+#' @import data.table
+
 gffGenes <- function(input_gff) {
 
   # Read the GFF file

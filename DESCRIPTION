@@ -9,6 +9,6 @@ License: MIT Licence
 Encoding: UTF-8
 LazyData: true
 Imports:
-    tidyverse
+    tidyverse,
     data.table
-    ggplot2
+RoxygenNote: 7.3.2

@@ -1,3 +1,6 @@
+#' @importFrom magrittr %>%
+#' @import data.table
+
 gffExons <- function(input_gff) {
 
   # Read the GFF file

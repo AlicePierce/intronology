@@ -1,3 +1,6 @@
+#' @importFrom magrittr %>%
+#' @import data.table
+
 intronFeatures <- function(input_gff) {
 
   allIntrons<-annotateIntrons(input_gff)
