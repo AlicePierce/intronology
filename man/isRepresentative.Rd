@@ -2,7 +2,7 @@
 \alias{isRepresentative}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+Filter by representative gene models
 }
 \description{
 Filters to keep only representative gene models from a .txt file
