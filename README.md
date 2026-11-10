@@ -2,7 +2,7 @@
 <img src="assets/intronology-logo.png" alt="logo" width="150">
 
 ## overview
-`intronology` is an R package to annotate introns from `.gff` files. 
+`intronology` is an R package to annotate introns from `.gff` files. This package is a work in progress and expected to be improved soon. Please stay tuned!
 
 ## installation
 ### how to install
